@@ -1,0 +1,5 @@
+
+ANNOTATE
+===============
+bundle exec annotate - adds comments containing the data model to the model
+file
