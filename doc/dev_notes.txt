@@ -8,3 +8,9 @@ file
 RSPEC
 ===============
 rake db:test:prepare - creates a test database with the proper structure
+
+
+
+Rails Tips
+validations -
+http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates
