@@ -24,9 +24,13 @@ end
 
 gem 'jquery-rails'
 
-group :test do
+group :development, :test do
   gem 'capybara'
   gem 'rspec-rails'
+end
+
+group :development do
+  gem 'annotate'
 end
 
 group :production do 
