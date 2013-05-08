@@ -6,6 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'bcrypt-ruby'
 
 
 # Gems used only for assets and not required
@@ -24,8 +25,13 @@ end
 
 gem 'jquery-rails'
 
-group :test do
+group :development, :test do
   gem 'capybara'
+  gem 'rspec-rails'
+end
+
+group :development do
+  gem 'annotate'
 end
 
 group :production do 

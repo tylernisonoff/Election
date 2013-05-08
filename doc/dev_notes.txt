@@ -1,0 +1,18 @@
+
+ANNOTATE
+===============
+bundle exec annotate - adds comments containing the data model to the model
+file
+
+
+RSPEC
+===============
+rake db:test:prepare - creates a test database with the proper structure
+
+
+
+Rails Tips
+validations -
+http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates
+
+before_save callback
