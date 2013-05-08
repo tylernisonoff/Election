@@ -28,10 +28,15 @@ gem 'jquery-rails'
 group :development, :test do
   gem 'capybara'
   gem 'rspec-rails'
+  gem 'growl'
+  gem 'rb-fsevent', :require => false
+  gem 'guard-spork'
+  gem 'spork'
 end
 
 group :development do
   gem 'annotate'
+  gem 'guard-rspec'
 end
 
 group :production do 
