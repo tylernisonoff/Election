@@ -32,6 +32,7 @@ group :development, :test do
   gem 'rb-fsevent', :require => false
   gem 'guard-spork'
   gem 'spork'
+  gem 'factory_girl_rails'
 end
 
 group :development do
