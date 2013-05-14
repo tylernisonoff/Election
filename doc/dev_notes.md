@@ -20,4 +20,7 @@ Rails Tips
 ============
 validations - http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates
 
+all controllers generally inherit from ApplicationController => good spot to
+put code for all controllers
+
 before_save callback
