@@ -1,0 +1,11 @@
+Wed, 15 May 2013 10:19:37 -0400
+doc/README_FOR_APP	Sat, 13 Apr 2013 15:59:00 -0400
+app/controllers/application_controller.rb	Tue, 14 May 2013 16:56:32 -0400
+app/controllers/sessions_controller.rb	Tue, 14 May 2013 16:56:32 -0400
+app/controllers/static_controller.rb	Sat, 13 Apr 2013 18:05:42 -0400
+app/controllers/users_controller.rb	Wed, 15 May 2013 10:07:15 -0400
+app/helpers/application_helper.rb	Sat, 13 Apr 2013 18:05:42 -0400
+app/helpers/sessions_helper.rb	Tue, 14 May 2013 16:56:32 -0400
+app/helpers/static_helper.rb	Sat, 13 Apr 2013 18:05:42 -0400
+app/helpers/users_helper.rb	Mon, 13 May 2013 17:07:59 -0400
+app/models/user.rb	Tue, 14 May 2013 16:56:32 -0400
